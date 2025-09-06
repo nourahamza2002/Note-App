@@ -1,0 +1,14 @@
+{
+  "name": "personal-notes-app",
+  "version": "1.0.0",
+  "description": "A simple web application for managing personal notes.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
